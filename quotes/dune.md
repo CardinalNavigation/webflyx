@@ -5,6 +5,10 @@
 * "When Is A Gift Not A Gift?"
 * "The Spice Must Flow"
 <<<<<<< HEAD
+<<<<<<< HEAD
 * "Fear is the mind-killer"
 =======
 >>>>>>> 8d19f2b (H: Added Spice Quote)
+=======
+* "Fear is the mind-killer"
+>>>>>>> b590481 (I: Added Mind Killer Quote)
